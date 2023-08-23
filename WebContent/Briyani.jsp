@@ -11,7 +11,6 @@
 <h1>This is Menu List</h1>
 <h2>Look below</h2>
 <a href="url">Click Here</a>
-<p>FUCK YOU</p>
 
 </body>
 </html>
